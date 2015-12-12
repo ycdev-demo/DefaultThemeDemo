@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DefaultThemeDemo</string>
+    <string name="btn_attributes_test">Attributes Test</string>
+
+    <string name="app_test_label_in_theme">TestLabelInTheme</string>
+    <string name="app_test_label_in_style">TestLabelInStyle</string>
+    <string name="app_test_label_in_layout">TestLabelInLayout</string>
+</resources>

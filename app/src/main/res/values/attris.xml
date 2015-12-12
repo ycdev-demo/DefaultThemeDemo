@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="app_test_label" format="string" />
+    <attr name="app_test_color" format="color" />
+
+    <declare-styleable name="TestAttributesSet">
+        <attr name="android:disabledAlpha" />
+        <attr name="android:textColorSecondary" />
+        <attr name="android:backgroundDimAmount" />
+        <attr name="app_test_label" />
+        <attr name="app_test_color" />
+    </declare-styleable>
+</resources>

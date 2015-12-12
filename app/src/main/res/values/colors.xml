@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_test_color_in_theme">#99660000</color>
+    <color name="app_test_color_in_style">#99006600</color>
+    <color name="app_test_color_in_layout">#99000066</color>
+</resources>

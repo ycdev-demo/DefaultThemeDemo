@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Light">
+        <item name="app_test_label">@string/app_test_label_in_theme</item>
+        <item name="app_test_color">@color/app_test_color_in_theme</item>
+    </style>
+
+    <style name="AppWidget" parent="AppTheme" />
+
+    <style name="AppWidget.TestStyle">
+        <item name="app_test_label">@string/app_test_label_in_style</item>
+        <item name="app_test_color">@color/app_test_color_in_style</item>
+    </style>
+
+    <style name="AppWidget.TestStyle2">
+        <item name="app_test_color">@color/app_test_color_in_style</item>
+    </style>
+</resources>
